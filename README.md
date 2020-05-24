@@ -1,5 +1,11 @@
 # Plantilla-Java-modern-design
 Interfaz moderna y sencilla adaptable para casi cualquier proyecto java.
+<p>Principales caracteristicas</p>
+<ul>
+<li>Utilización del Portapeles del sistema para copiado rapido</li>
+<li>Utilización de hilos para mostrar la hora en todo momento</li>
+<li>"SliderShow" capaz de mostrar las imagenes que existan en el directorio raiz "Imagenes/productos/"</li>
+</ul>
 
 <p><img alt="Image" title="icon" src="https://scontent.fctg2-1.fna.fbcdn.net/v/t1.0-9/100627272_2966828226764426_7344765547881431040_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_ohc=NLyZayXzAuYAX_n3-ss&_nc_ht=scontent.fctg2-1.fna&oh=82a37283c56b09190699511218202b50&oe=5EF01ED4" /></p>
 
